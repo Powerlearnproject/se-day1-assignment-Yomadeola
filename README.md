@@ -7,7 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
   Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of high-quality software application. 
-  Software engineering is important in the technology industry by enabling the creation of software applications and systems tha power various aspect of modern life, such as communication, healthcare, etc
+  Software engineering is important in the technology industry by enabling the creation of software applications and systems that power various aspect of modern life, such as communication, healthcare, etc
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Milestones in the evolution of software engineering include:
@@ -33,8 +33,8 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
     
-  A Software Developer: is responsible for writing code and implementing software solutions.
-  A Quality Assurance Engineer: is responisble for ensuring software quality by designing and executing test plans.
+  A Software Developer: responsible for writing code and implementing software solutions.
+  A Quality Assurance Engineer: responisble for ensuring software quality by designing and executing test plans.
   A Project Manager: oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
